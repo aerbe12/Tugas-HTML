@@ -1,0 +1,9 @@
+header, body {
+
+    background-image: url(w.jpg);
+}
+
+.footer {
+    background-color: yellow;
+    text-align: center
+}
